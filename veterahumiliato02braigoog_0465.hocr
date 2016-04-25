@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterahumiliato02braigoog_0465.png"; bbox 0 0 1015 1367; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 709 1265 912 1306">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 709 1265 912 1306">
+     <span class='ocr_line' id='line_1_1' title="bbox 709 1265 912 1306; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 709 1282 718 1294; x_wconf 78' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_2' title='bbox 723 1285 739 1297; x_wconf 38' lang='grc' dir='ltr'>ΞΠ</span> <span class='ocrx_word' id='word_1_3' title='bbox 744 1282 767 1294; x_wconf 56' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 774 1285 788 1297; x_wconf 50' lang='lat' dir='ltr'>„y</span> <span class='ocrx_word' id='word_1_5' title='bbox 793 1265 912 1306; x_wconf 71' lang='lat' dir='ltr'>Google</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
